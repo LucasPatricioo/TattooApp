@@ -1,0 +1,21 @@
+.modal-video-icon{
+    width:15%;
+}
+.modal-video-icon img{
+    width:100%;
+}
+
+.card-index{
+    margin:auto;
+}
+.modal-usuario-dashboard{
+    padding-bottom:4em;
+}
+
+.square-calendario{
+    border: 1px solid #595959;
+}
+.imagem-perfil-usuario{
+    width: 15em; 
+    height: 15em;
+}
